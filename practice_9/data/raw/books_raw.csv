@@ -1,0 +1,12 @@
+BookID,Title,Genre,ISBN,PublishYear
+1,Python для початківців,Навчальна,978-0-100000-001,2023
+2,SQL на практиці,Навчальна,978-0-100000-002,2024
+3,Data Analytics 101,Навчальна,978-0-100000-003,2025
+4,Story Craft,Fiction,978-0-100000-004,2022
+5,Mountains & Lakes,Travel,978-0-100000-005,2021
+6,AI for Editors,Technology,978-0-100000-006,2025
+7,Clean Data,Non-Fiction,978-0-100000-007,2020
+8,Sci-Fi Tales,Sci-Fi,978-0-100000-008,2019
+9,Business Blue,Business,978-0-100000-009,2024
+10,Creative SQL,Technology,978-0-100000-010,2023
+11,Палімпсести,Поезія,978-0-100000-999,2026
